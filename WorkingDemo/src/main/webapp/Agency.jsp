@@ -18,15 +18,14 @@
     <script src="assets/js/modernizr.custom.js"></script>
 </head>
 <body>
-<div class="myheader">this is headder
+<div class="myheader"><span style ="margin-left:20px ;font-size:22px;font-weight:bold;color:#16a085">CoLaborate</span>
 <ul class="pull-right">
-            <li class="home-link"><a href="">Home</a></li>
-            <li class="tech-link"><a href="">Technology</a></li>
-            <li class="tech-link"><a href="">Medical</a></li>
-            <li class="managment-link"><a href="">Management</a></li>
-            <li class="news-link"><a href="">News</a></li>
-            <li class="news-link"><a href="">Events</a></li>
-            <li class="contact-link"><a href="">Contact</a></li>
+            <li style ="margin-right:10px ;font-weight:bold"><a href="">Home</a></li>
+            <li style ="margin-right:10px;font-weight:bold"><a href="">Tech</a></li>
+            <li style ="margin-right:10px;font-weight:bold"><a href="">Management</a></li>
+            <li style ="margin-right:10px;font-weight:bold"><a href="">News</a></li>
+            <li style ="margin-right:10px;font-weight:bold"><a href="">Events</a></li>
+            <li style ="margin-right:10px;font-weight:bold"><a href="">Contact</a></li>
           </ul>
 </div>
 <div id="headerwrap">
