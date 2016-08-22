@@ -40,7 +40,6 @@
 				<div class="col-lg-4 mymargintop">
 					<form action="SignUpServlet" method="post">
 					    <input class="myinput" type="text" name="username" placeholder="Enter your username" size="40"> <br>
-						<input class="myinput" type="text" name="Email" placeholder="Enter your email" size="40"> <br>
 						<input class="myinput" type="password" name="password" placeholder="Enter your password" size="40"><br>
 						<input type="submit" class="btn btn-green" value="Sign Up !">
 					</form>
