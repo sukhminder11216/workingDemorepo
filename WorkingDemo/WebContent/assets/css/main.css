@@ -208,8 +208,8 @@ hr {
     -o-transition: all .1s ease-in-out;
     transition: all .1s ease-in-out;
 }
-#`wrap {
-    background: url(../img/header-bg1.jpg) no-repeat center top;
+#headerwrap {
+    background: url(../img/home-bg-slideshow1.jpg) no-repeat center top;
     margin-top: -10px;
     padding-top: 20px;
     text-align: center;
